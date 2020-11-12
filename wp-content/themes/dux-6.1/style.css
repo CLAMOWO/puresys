@@ -1,0 +1,23 @@
+/** 鼠标样式 开始**/ 
+/** 普通指针样式**/ 
+body {
+cursor: url(https://www.puresys.net/puntero.cur), default;
+}
+ 
+/** 链接指针样式**/ 
+a:hover{cursor:url(https://www.puresys.net/puntero.cur), pointer;}
+ 
+/** 鼠标样式 结束**/    background-image: url(https://api.ixiaowai.cn/api/api.php);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+/*
+	Theme Name: DUX
+	Description: better theme by themebetter
+	Theme URI: https://www.carrotchou.blog
+	Author: carrotchou.blog
+	Author URI: https://www.carrotchou.blog/
+	Version: 6.1
+*/
